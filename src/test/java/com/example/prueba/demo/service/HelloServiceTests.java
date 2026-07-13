@@ -20,7 +20,7 @@ class HelloServiceTests {
     @Test
     @DisplayName("Should return the correct greeting message")
     void testGetMessageReturnsCorrectMessage() {
-        // Arrange
+        // Arrangee
         String expectedMessage = "Hello World from Spring Boot test37";
 
         // Act
